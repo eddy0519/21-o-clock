@@ -12,6 +12,6 @@ public:
 	string getPokerNumber(int var);
 	string tostring(int var);
 private:
-	string pokerNumber[52]; //¼³§J¦W
+	string pokerNumber[52]; //一共52張牌
 };
 #endif
